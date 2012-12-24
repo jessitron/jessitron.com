@@ -61,6 +61,7 @@ div.content {
    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
 }
 
+a:link { color:white;}
 a:visited { color:white;}
 
 span.toc a:link {text-decoration:none;
