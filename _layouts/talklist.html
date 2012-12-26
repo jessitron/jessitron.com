@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<h1>There are {{ site.posts.size }} talks listed<h1>
+
+{% for t in site.posts %}
+<div class="talk">
+{% if t.image %}
+  <img src="images/{{ t.image }}" class="talkimage">
+{% endif %}
+<h2 class="talkTitle"> {{ t.title }}</h2>
+<p> {{ t.content }}</p>
+ {% if t.video %}
+ <a class="material" href="{{ t.video }}">Video</a>
+ {% endif %}
+ {% if t.slides %}
+ <a class="material" href="{{ t.slides }}">Slides</a>
+ {% endif %}
+ {% if t.code %}
+ <a class="material" href="{{ t.code }}">Code</a>
+ {% endif %}
+ <ul class="deliveries">
+  {% for d in t.deliveries %}
+    <li deliverydate-"{{d.date}}">{{ d.date | date: "%d %B, %Y" }} at 
+   {% if d.link %}
+    <a href="http://{{ d.link }}" class="talkplace">{{ d.place }}</a>
+   {% else %}
+    {{ d.place }}
+   {% endif %}
+   </li>
+  {% endfor %}
+ </ul>
+</div>
+{% endfor %}

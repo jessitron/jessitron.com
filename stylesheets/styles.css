@@ -72,3 +72,35 @@ span.toc a:visited {text-decoration:none;
 }
 span.toc a:hover {text-decoration:underline;}
 span.toc a:active {text-decoration:underline;}
+
+img.talkimage {
+   float: left;
+   width: 200px;
+   height: 200px;
+   padding-right: 10px;
+}
+
+div.talk {
+   border: 2px solid gray;
+   background-color: #bbbbbb;
+   color: black;
+   padding: 10px;
+   width: 95%;
+}
+
+h2.talkTitle {
+   margin-left: 10px;
+}
+
+div.talk p {
+   padding-left: 10px;
+}
+
+ul.deliveries {
+   margin-left: 210px;
+}
+
+a.material {
+    padding-top: 5px;
+   padding-left: 20px;
+}

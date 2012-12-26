@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talklist
 name: talks
 ---
 talk about talks
