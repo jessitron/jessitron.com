@@ -12,6 +12,11 @@ img.logo {
    float: left;
 }
 
+img.portrait {
+   padding-right:3%;
+   float: right;
+}
+
 div.one {
    height: 91px;
 }

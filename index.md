@@ -2,6 +2,8 @@
 layout: default
 name: home
 ---
+<img class="portrait" src="images/circlehead.png" />
+
 I'm a software developer with a hobby of presenting at conferences. I like to think and to make other people think.
 
 My missions include 
