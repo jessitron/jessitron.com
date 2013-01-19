@@ -12,4 +12,10 @@ image: git-happens.png
 video: http://vimeo.com/46010208
 slides: http://prezi.com/xgvurwyq1mrk/git-happens-jdd/
 ---
-Let's face it: DVCS is here to stay. But what's the point? There's a million tutorials on the internet that tell you what to type in Git, but not why! Go one level deeper: A few straightforward concepts and some pictures, and git will magically make sense. Learn how to use DVCS to tell the story of your project. You'll get the point of all those extra steps in committing and updating; erase some Subversion-related preconceptions; and grasp the purpose of fast-forward merge, cherry-pick, and rebase. 
+Git: it's all the rage in source control. You may use it,
+but do you understand it? There are a million tutorials out there to
+tell you what to type, but not why. This talk will show you in
+pictures what's going on behind the scenes in git. Those esoteric
+spells you've been typing will make sense, and you'll know how to
+untangle your commit history when you get your repo in a knot.
+
