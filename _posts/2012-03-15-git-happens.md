@@ -1,7 +1,9 @@
 ---
 layout: talk
 title: Git Happens
-deliveries: [ 
+deliveries: [
+  { date: 2013-05-04, place: "Kansas City Developers Conference", link:
+  "kcdc.info"},
   { date: 2013-02-13, place: "St. Louis UNIX User Group", link: "sluug.org"},
   { date: 2012-12-10, place: "DevTeach, Montreal", link: "devteach.com"} ,
   { date: 2012-10-26, place: "JDD, Krakow", link: "12.jdd.org.pl/en"},
@@ -10,7 +12,7 @@ deliveries: [
 ]
 image: git-happens.png
 video: http://vimeo.com/46010208
-slides: http://prezi.com/xgvurwyq1mrk/git-happens-jdd/
+slides: http://prezi.com/tnrx86yhlzll/git-happens-2-kcdc/
 ---
 Git: it's all the rage in source control. You may use it,
 but do you understand it? There are a million tutorials out there to
