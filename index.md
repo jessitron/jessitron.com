@@ -2,7 +2,7 @@
 layout: default
 name: home
 ---
-<img class="portrait" src="images/circlehead.png" />
+<img class="portrait" src="images/geecon.jpeg" />
 
 I'm a software developer with a hobby of presenting at conferences.
 
