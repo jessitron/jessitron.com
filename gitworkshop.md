@@ -37,7 +37,7 @@ My recommendation is a two-step program of ingitiation:
 
   <p>Time: 4 hours<br>
   People: up to 10<br>
-  Sample [agenda](http://jessitron.github.io/git-happens/workshop)
+  Sample <a href="http://jessitron.github.io/git-happens/workshop">agenda<a/>
   </p>
 
   <h3>2: Developer Workshop</h3>
