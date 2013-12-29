@@ -25,34 +25,32 @@ extensively, and save work with greater frequency, then I can help.
 
 My recommendation is a two-step program of ingitiation:
 
-// MARIO can you make a box starting here
+<div class="callout">
+  <h3>1: Leader Workshop</h3>
 
-### 1: Leader Workshop
-   For one afternoon, the team leads and infrastructure experts get
-   together to learn the ins and outs of git. In three hours I teach
-   the vocabulary, concepts, and common pitfalls. That provides a basis
-   for the most important part: workflow alternatives. We will discuss
-   several alternatives in the context of your team's needs, and decide
-   which practices fit the organization.
+  <p>For one afternoon, the team leads and infrastructure experts get
+    together to learn the ins and outs of git. In three hours I teach
+    the vocabulary, concepts, and common pitfalls. That provides a basis
+    for the most important part: workflow alternatives. We will discuss
+    several alternatives in the context of your team&#39;s needs, and decide
+    which practices fit the organization.</p>
 
-Time: 4 hours<br>
-People: up to 10
+  <p>Time: 4 hours<br>
+  People: up to 10</p>
 
-### 2: Developer Workshop
+  <h3>2: Developer Workshop</h3>
 
-   A few weeks later, I return to teach git concepts to the entire
-   team, providing the basic vocabulary and concepts. They'll learn
-   about git, and then they'll learn how to use it at your company.
-   Teaching the agreed-upon workflow will make git relatively easy to
-   learn and use, and a customized cheat-sheet will provide a handy
-   reference. In two concentrated hours, team members will save weeks of
-   frustration.
+  <p>A few weeks later, I return to teach git concepts to the entire
+    team, providing the basic vocabulary and concepts. They&#39;ll learn
+    about git, and then they&#39;ll learn how to use it at your company.
+    Teaching the agreed-upon workflow will make git relatively easy to
+    learn and use, and a customized cheat-sheet will provide a handy
+    reference. In two concentrated hours, team members will save weeks of
+    frustration.</p>
 
-Time: 2-3 hours<br>
-People: up to 20
-
-// and ending here?
-
+  <p>Time: 2-3 hours<br>
+  People: up to 20</p>
+</div>
 If you're in St. Louis, you can have your own two-workshop customized
 series for $2000. Outside of St. Louis, we can talk, but it'll probably
 cost twice that plus travel expenses.

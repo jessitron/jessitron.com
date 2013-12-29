@@ -24,7 +24,7 @@ div.one {
 div.two {
    clear: both;
    width: 95%;
-   height: 95%;
+   height: 100%;
    border-top: 8 solid white;
    border-left: 8 solid white;
    margin-left: 46px;
@@ -46,7 +46,7 @@ div.horvert {
    clear: left;
    float: left;
    width: 20px;
-   height: 95%;
+   height: 97%;
    background-image: -webkit-gradient(linear, right top, left top, color-stop(0, #000000), color-stop(1, #5E0C0C));
 }
 span.now {
@@ -108,4 +108,10 @@ ul.deliveries {
 a.material {
     padding-top: 5px;
    padding-left: 20px;
+}
+
+div.callout {
+  border: 1px white solid;
+  margin: 10px 40px 10px 10px;
+  padding: 10px 20px;
 }
