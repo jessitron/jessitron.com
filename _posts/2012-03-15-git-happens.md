@@ -2,11 +2,9 @@
 layout: talk
 title: Git Happens
 deliveries: [
-  { date: 2014-02-24, place: "CodePaLOUsa", link:"codepalousa.com"},
-  { date: 2013-08-10, place: "PyCon Canada, Toronto", link:
-  "2013.pycon.ca"},
-  { date: 2013-05-04, place: "Kansas City Developers Conference", link:
-  "kcdc.info"},
+  { date: 2014-02-24, place: "CodePaLOUsa", link:"codepalousa.com" },
+  { date: 2013-08-10, place: "PyCon Canada, Toronto", link: "2013.pycon.ca" },
+  { date: 2013-05-04, place: "Kansas City Developers Conference", link: "kcdc.info"},
   { date: 2013-02-13, place: "St. Louis UNIX User Group", link: "sluug.org"},
   { date: 2012-12-10, place: "DevTeach, Montreal", link: "devteach.com"} ,
   { date: 2012-10-26, place: "JDD, Krakow", link: "12.jdd.org.pl/en"},
