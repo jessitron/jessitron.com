@@ -5,11 +5,17 @@
 </head>
 <body>
 <a href="http://jessitron.com"><img class="logo" src="images/jess.png" /></a>
-<div class="one"> 
+<div class="one">
 {% if page.name == "home" %}
-<span class="toc now">-<a href="index.html">Jessitron</a>-</span> 
+<span class="toc now">-<a href="index.html">Jessitron</a>-</span>
 {% else %}
-<span class="toc">&nbsp;<a href="index.html">Jessitron</a>&nbsp;</span> 
+<span class="toc">&nbsp;<a href="index.html">Jessitron</a>&nbsp;</span>
+{% endif %}
+
+{% if page.name == "gitworkshop" %}
+<span class="toc now">-<a href="gitworkshop.html">Git Training</a>-</span>
+{% else %}
+<span class="toc">&nbsp;<a href="gitworkshop.html">Git Training</a>&nbsp;</span>
 {% endif %}
 
 {% if page.name == "talks" %}
