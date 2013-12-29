@@ -36,7 +36,9 @@ My recommendation is a two-step program of ingitiation:
     which practices fit the organization.</p>
 
   <p>Time: 4 hours<br>
-  People: up to 10</p>
+  People: up to 10<br>
+  Sample [agenda](http://jessitron.github.io/git-happens/workshop)
+  </p>
 
   <h3>2: Developer Workshop</h3>
 
