@@ -4,14 +4,27 @@ name: home
 ---
 <img class="portrait" src="images/geecon.jpeg" />
 
-I'm a software developer with a hobby of presenting at conferences.
+I'm incredibly excited to be a software developer.
 
-I also teach custom on-site [git workshops](gitworkshop.html).
+I do some blogging:
+[abstractivate.jessitron.com](http://abstractivate.jessitron.com)  
+and some tweeting: [@jessitron](http://twitter.com/jessitron)  
+and software development, at [Outpace](http://Outpace.com/careers) which is
+amazing  
+and some podcasting, as a panelist on [Ruby Rogues](http://rubyrogues.com)  
+and some meetup-ing, at [Lambda Lounge](http://lambdalounge.org) and
+[STL Ruby](http://meetup.com/stlruby) and
+[Java](http://www.meetup.com/GatewayJUG/)  
+and some teaching programming to [my
+sister](https://www.youtube.com/channel/UCrlq1XOiSijrMGWbBlKo2Eg)  
+and some speaking.
 
-My missions are to bridge the gap between object-oriented and functional
-development; learn new technologies and find the essential concepts
-inside; and trigger insight in other minds.
+2015 conference plans:
 
-I accomplish this through [presenting](talks.html), [blogging](http://blog.jessitron.com), and [tweeting](http://twitter.com/jessitron).
+* 3 Feb 2015, [JS Remote Conf](http://jsremoteconf.com)
+* 22-24 April, [Craft Conf](http://craft-conf.com/2015) in Budapest
+* 25-26 June, [KCDC](http://kcdc.info)
+* 17-19 September, [Strange Loop](http://thestrangeloop.com)
+* 3-4 November, [CodeMesh](http://codemesh.io) in London
 
-
+There's room for two more.
