@@ -6,6 +6,7 @@ deliveries: [
   { date: 2014-11-04, place: "Codemesh, London", link: "codemesh.io" }
 ]
 image: ciotc.jpg
+video: http://www.infoq.com/presentations/complexity-simplicity-esb
 slides: http://www.slideshare.net/jessitron/complexity-is-outside-the-code
 code: https://github.com/jessitron/teamo
 ---
