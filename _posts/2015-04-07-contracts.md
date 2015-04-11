@@ -1,7 +1,6 @@
 ---
 layout: talk
-title: Contracts and Clojure: the Best-Yet Compromise Between Types and
-Tests
+title: Contracts and Clojure: the Best-Yet Compromise Between Types and Tests
 deliveries: [
   { date: 2015-04-07, place: "Philly ETE", link: "phillyemergingtech.com" },
   { date: 2015-04-24, place: "Craft Conf", link: "craft-conf.com/2015" },
