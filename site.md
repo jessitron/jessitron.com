@@ -20,11 +20,23 @@ to work together.
 
 I'm incredibly excited to be a software developer.
 
-As such, I do some blogging: abstractivate.jessitron.com
-and some tweeting: @jessitron
+As such, I do some blogging:
+[abstractivate.jessitron.com](http://abstractivate.jessitron.com)
+and some tweeting: [@jessitron](http://twitter.com/jessitron)
 and software development, at Outpace which is amazing
 and some podcasting, as a panelist on Ruby Rogues
-and some speaking. Here are my talks:
+and some meetup-ing, at Lambda Lounge and STL Ruby and Java.
+and some speaking.
+
+This year's conference schedule:
+3 Feb 2015, JS Remote Conf
+7-8 April, Philly ETE
+22-24 April, Craft Conf in Budapest
+25-26 June, KCDC
+2-4 July, PolyConf, Poznań, Poland
+17-19 September, Strange Loop
+
+Here are my talks so far:
 
 5) Complexity is Outside the Code
 Everybody does refactoring, right? We keep our code clean and expect
@@ -36,6 +48,10 @@ In a joint keynote with Dan North, I point out that the best we can do
 is push the complexity outside the code - and suggest how we can deal
 with it there.
 
+testing mathy things, is now a strong tool for testing at the service or
+module level. With fewer
+tests, we can think harder, change faster, and know more about our
+application.
 CodeMesh 2014
 
 1) Property-based Testing for Better Code

@@ -2,6 +2,7 @@
 layout: talk
 title: Complexity is Outside the Code
 deliveries: [
+  { date: 2015-04-23, place: "Craft Conf", link: "craft-conf.com/2015"},
   { date: 2015-02-03, place: "JS Remote Conf", link: "jsremoteconf.com" },
   { date: 2014-11-04, place: "Codemesh, London", link: "codemesh.io" }
 ]
