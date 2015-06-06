@@ -27,6 +27,7 @@ and some speaking.
 * 25-26 June, [KCDC](http://kcdc.info)
 * 2-4 July, [PolyConf, Poznań, Poland](http://polyconf.com)
 * 6 July, [special engagement at Ordina](http://www.ordina.nl/nl-nl/evenementen/innoveer-jij-mee-sessie-met-jessica-kerr/) in Utrecht, Netherlands
+* 24-25 August, [React Rally](http://www.reactrally.com/), Salt Lake City (keynote)
 * 17-19 September, [Strange Loop](http://thestrangeloop.com)
 * 16-18 November, [QCon San Francisco](https://qconsf.com)
 * 10-11 December, [Scala eXchange](https://skillsmatter.com/conferences/6862-scala-exchange-2015) in London (keynote)
