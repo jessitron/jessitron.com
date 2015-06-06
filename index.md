@@ -26,5 +26,7 @@ and some speaking.
 * 22-24 April, [Craft Conf](http://craft-conf.com/2015) in Budapest
 * 25-26 June, [KCDC](http://kcdc.info)
 * 2-4 July, [PolyConf, Poznań, Poland](http://polyconf.com)
+* 6 July, [special engagement at Ordina](http://www.ordina.nl/nl-nl/evenementen/innoveer-jij-mee-sessie-met-jessica-kerr/) in Utrecht, Netherlands
 * 17-19 September, [Strange Loop](http://thestrangeloop.com)
-* 3-4 November, [CodeMesh](http://codemesh.io) in London
+* 16-18 November, [QCon San Francisco](https://qconsf.com)
+* 10-11 December, [Scala eXchange](https://skillsmatter.com/conferences/6862-scala-exchange-2015) in London (keynote)
