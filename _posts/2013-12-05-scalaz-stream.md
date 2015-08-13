@@ -1,6 +1,7 @@
 ---
 layout: talk
 title: When Code Reacts to Data
+video: http://www.infoq.com/presentations/io-code-data
 deliveries: [
   { date: 2014-02-25, place: "CodePaLOUsa", link: "codepalousa.com"},
   { date: 2014-01-02, place: "Lambda Lounge, St Louis", link:
