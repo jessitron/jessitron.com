@@ -4,7 +4,7 @@ title: Scaling Intelligence
 deliveries: [
   { date: 2015-12-10, place: "Scala eXchange, London", link: "https://skillsmatter.com/conferences/6862-scala-exchange-2015#program" }
 ]
-image: scala.png
+image: scala-square.png
 video: https://skillsmatter.com/skillscasts/6483-keynote-scaling-intelligence-moving-ideas-forward
 ---
 This opening keynote addressed why learning a language like Scala can be hard, and how we can all make it better.
