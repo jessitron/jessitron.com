@@ -19,7 +19,11 @@ and some speaking.
 
 2016 conference plans:
 
-* 11-12 April,[Philly ETE](http://phillyemergingtech.com)
+* 11-12 April, [Philly ETE](http://phillyemergingtech.com)
 * 24-26 April, [Craft Conf](http://craft-conf.com/2015) in Budapest\
 * 24-25 May, [GOTO Chicago](http://gotocon.com/chicago-2016)
+* 23-24 June, [KCDC](http://kcdc.info)
+* 25-29 July, [Agile 2016](https://www.agilealliance.org/agile2016)
+* 12 August, [Scenic City Summit](http://www.sceniccitysummit.com/)
 * 3-4 November, [CodeMesh](http://www.codemesh.io/)
+* December, YOW Australia
