@@ -3,10 +3,10 @@ layout: talk
 title: Adventures in Elm
 deliveries: [
   { date: 2016-04-11, place: "Emerging Technologies for the Enterprise, Philadelphia"},
-  { date: 2016-04-26, place: "Craft Conf, Budapest", link: http://www.ustream.tv/recorded/86157626 },
+  { date: 2016-04-26, place: "Craft Conf, Budapest", link: "http://www.ustream.tv/recorded/86157626" },
   { date: 2016-05-24, place: "GOTO Chicago" },
   { date: 2016-05-23, place: "KCDC, Kansas City" },
-  { date: 2016-11-03, place: "CodeMesh, London", link: https://youtu.be/yFN8Y0Aoflw }
+  { date: 2016-11-03, place: "CodeMesh, London", link: "https://youtu.be/yFN8Y0Aoflw" }
 ]
 image: craft-elm.png
 video: https://www.youtube.com/watch?v=cgXhMc8M4X4
