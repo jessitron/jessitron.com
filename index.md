@@ -4,26 +4,25 @@ name: home
 ---
 <img class="portrait" src="images/geecon.jpeg" />
 
-I'm incredibly excited to be a software developer.
+I'm incredibly excited to be a software developer. Especially now that I work at [Atomist](https://www.atomist.com) on automating everyone's software development.
 
 I do some blogging:
 [abstractivate.jessitron.com](http://abstractivate.jessitron.com)
 and some tweeting: [@jessitron](http://twitter.com/jessitron)
-and software development, at [Stripe](http://stripe.com/careers) which is
-amazing
-and some podcasting, as a panelist on [Ruby Rogues](http://rubyrogues.com)
-and some meetup-ing, mostly at [Lambda Lounge](http://lambdalounge.org)
-and some teaching programming to [my
-sister](https://www.youtube.com/channel/UCrlq1XOiSijrMGWbBlKo2Eg)
+and some podcasting, on [&lt;Code](http://greaterthancode.com)
+and some meetup-ing, in St. Louis
 and some speaking.
 
-2016 conference plans:
+2017 conference plans:
 
-* 11-12 April, [Philly ETE](http://phillyemergingtech.com)
-* 24-26 April, [Craft Conf](http://craft-conf.com/2015) in Budapest\
-* 24-25 May, [GOTO Chicago](http://gotocon.com/chicago-2016)
-* 23-24 June, [KCDC](http://kcdc.info)
-* 25-29 July, [Agile 2016](https://www.agilealliance.org/agile2016)
-* 12 August, [Scenic City Summit](http://www.sceniccitysummit.com/)
-* 3-4 November, [CodeMesh](http://www.codemesh.io/)
-* December, YOW Australia
+* 18 February, [Kats Conf](http://www.katsconf.com/) in Dublin
+* 3-5 April, [O'Reilly Software Architecture](http://conferences.oreilly.com/software-architecture/sa-ny), New York (keynote)
+* 17-18 April, [Philly ETE](http://phillyemergingtech.com)
+* 28 April, [Codemania](http://codemania.io/) in Auckland, New Zealand
+* 20 May, [Empire Elixir Conf](http://empex.co/) in New York (keynote)
+* 13-14 June, [GOTO Amsterdam](http://gotocon.com/amsterdam-2017/)
+* 14-16 June, [NDC Oslo](http://ndcoslo.com/)
+* 20th or 22nd of June, an event by Ordina in Utrecht
+* 30 June (not confirmed)
+* October 1-3, [GOTO Copenhagen](https://gotocph.com/) (keynote)
+* 8-9 November, [CodeMesh](http://www.codemesh.io/)
