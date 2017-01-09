@@ -9,7 +9,7 @@ I'm incredibly excited to be a software developer. Especially now that I work at
 I do some blogging:
 [abstractivate.jessitron.com](http://abstractivate.jessitron.com)
 and some tweeting: [@jessitron](http://twitter.com/jessitron)
-and some podcasting, on [&lt;Code](http://greaterthancode.com)
+and some podcasting, on [&gt;Code](http://greaterthancode.com)
 and some meetup-ing, in St. Louis
 and some speaking.
 
