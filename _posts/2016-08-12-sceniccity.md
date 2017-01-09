@@ -2,7 +2,7 @@
 layout: talk
 title: Harder and Better
 deliveries: [
-  { date: 2016-08-12, place: "Scenic City Summit, Chattanooga" link: "http://www.sceniccitysummit.com" }
+  { date: 2016-08-12, place: "Scenic City Summit, Chattanooga", link: "http://www.sceniccitysummit.com" }
 ]
 image: pokemon.jpg
 ---
