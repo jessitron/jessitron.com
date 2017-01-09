@@ -11,4 +11,4 @@ Our job as software developers is harder than it used to be. There's so much to 
 
 Yet, our job is also better - for these same reasons!
 
-This wasn't recorded and was a unique talk. You had to be there.
+This wasn't recorded and was a unique talk. You had to be there. The Pokemon analogies were great, trust me.
