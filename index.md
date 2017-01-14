@@ -23,6 +23,6 @@ and some speaking.
 * 13-14 June, [GOTO Amsterdam](http://gotocon.com/amsterdam-2017/)
 * 14-16 June, [NDC Oslo](http://ndcoslo.com/)
 * 20th or 22nd of June, an event by Ordina in Utrecht
-* 30 June (not confirmed)
+* 30 June [Joy of Coding](http://joyofcoding.org/) in Rotterdam
 * October 1-3, [GOTO Copenhagen](https://gotocph.com/) (keynote)
 * 8-9 November, [CodeMesh](http://www.codemesh.io/)
