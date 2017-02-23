@@ -19,10 +19,11 @@ and some speaking.
 * 3-5 April, [O'Reilly Software Architecture](http://conferences.oreilly.com/software-architecture/sa-ny), New York (keynote)
 * 17-18 April, [Philly ETE](http://phillyemergingtech.com)
 * 28 April, [Codemania](http://codemania.io/) in Auckland, New Zealand
+* 16 May, Garage by Aviture speaker series, Omaha, NE
 * 20 May, [Empire Elixir Conf](http://empex.co/) in New York (keynote)
 * 13-14 June, [GOTO Amsterdam](http://gotocon.com/amsterdam-2017/)
 * 14-16 June, [NDC Oslo](http://ndcoslo.com/)
-* 20th or 22nd of June, an event by Ordina in Utrecht
+* 22nd of June, an event by Ordina in Utrecht
 * 30 June [Joy of Coding](http://joyofcoding.org/) in Rotterdam
 * October 1-3, [GOTO Copenhagen](https://gotocph.com/) (keynote)
 * 8-9 November, [CodeMesh](http://www.codemesh.io/)
