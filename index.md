@@ -25,5 +25,7 @@ and some speaking.
 * 14-16 June, [NDC Oslo](http://ndcoslo.com/)
 * 22nd of June, an event by Ordina in Utrecht
 * 30 June [Joy of Coding](http://joyofcoding.org/) in Rotterdam
+* 3-4 August, [KCDC](http://kcdc.info)
+* 28 September, ContainerSched, London (keynote)
 * October 1-3, [GOTO Copenhagen](https://gotocph.com/) (keynote)
 * 8-9 November, [CodeMesh](http://www.codemesh.io/)
