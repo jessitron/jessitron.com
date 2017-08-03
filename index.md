@@ -2,7 +2,7 @@
 layout: default
 name: home
 ---
-<img class="portrait" src="images/geecon.jpeg" />
+<img class="portrait" src="images/square-smallish.jpg" />
 
 I'm incredibly excited to be a software developer. Especially now that I work at [Atomist](https://www.atomist.com) on automating everyone's software development.
 
