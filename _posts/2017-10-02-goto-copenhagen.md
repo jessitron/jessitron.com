@@ -2,7 +2,7 @@
 layout: talk
 title: Forget Velocity, Let's Talk Acceleration
 deliveries: [
-  { date: 2017-10-02, place: "GOTO Copenhagen" link: "https://gotocph.com/2017/sessions/186"},
+  { date: 2017-10-02, place: "GOTO Copenhagen", link: "https://gotocph.com/2017/sessions/186"},
   { date: 2017-10-16, place "DevUp Days, St. Charles, MO" }
 ]
 image: gotocph.png
