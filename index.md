@@ -7,10 +7,14 @@ name: home
 I'm incredibly excited to be a software developer. Especially now that I work at [Atomist](https://www.atomist.com) on automating everyone's software development.
 
 I do some blogging:
-[abstractivate.jessitron.com](http://abstractivate.jessitron.com)
+[abstractivate.jessitron.com](http://abstractivate.jessitron.com) and [The Composition](http://the-composition.com)
+
 and some tweeting: [@jessitron](http://twitter.com/jessitron)
+
 and some podcasting, on [&gt;Code](http://greaterthancode.com)
+
 and some meetup-ing, in St. Louis
+
 and some speaking.
 
 2017 conference plans:
