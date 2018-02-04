@@ -9,13 +9,13 @@ Sometimes I think I was really really good in a previous life, and I got to pick
 
 Software is sufficiently complex that it is analogous to biology, ecology, and sociology. None of those are manipulable like software. With software we can build in observation points and change points. We can experiment and learn like never before. My secret hope is that in learning about software, we all learn systems thinking, and then we can be nice to each other.
 
-If you want to know about me, these are the works that express it:
+# If you want to know about me, these are the works that express it:
 
 [ElixirConf 2015 keynote](https://www.youtube.com/watch?v=X25xOhntr6s): it isn't about Elixir. The magic of this one is that I never gave them an abstract, and I wrote it in the three days beforehand, right after StrangeLoop. It's my first album: everything I had accumulated to say so far.
 
 [GOTO Copenhagen 2017 keynote](https://www.youtube.com/watch?v=Lbcyyu8XB_Y): here's the sequel, everything I've learned since then. It's missing a key piece (the Line of Representation as described in the STELLA Report by DD Woods) that I picked up a few months later. Next iteration, that's in there.
 
-Here are some posts I'm particularly happy with, on all my various blogs.
+#Here are some posts I'm particularly happy with, on all my various blogs.
 
 [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html): 10x developers are real _in a context_ not _as a person_
 
@@ -31,7 +31,11 @@ Here are some posts I'm particularly happy with, on all my various blogs.
 
 [Pipes](http://blogitron.blogspot.com/2012/06/pipes.html): From my personal blog, a useful analogy about balancing all the pressures in our life.
 
-If you want to know where my head is at the moment, check [twitter](https://twitter.com/jessitron/status/579109266042150912).
+# If you want to know where my head is at the moment
 
-And don't forget the podcast! I love &gt;Code, and I'm on the panel most weeks. My favorite is with [Dr Eugenia Cheng](http://www.greaterthancode.com/2017/07/05/episode-038-category-theory-for-normal-humans/), mathematician, because it defines _congressive_ and _ingressive_.
+check [twitter](https://twitter.com/jessitron/status/579109266042150912).
+
+# And don't forget the podcast!
+
+I love &gt;Code, and I'm on the panel most weeks. My favorite is with [Dr Eugenia Cheng](http://www.greaterthancode.com/2017/07/05/episode-038-category-theory-for-normal-humans/), mathematician, because it defines _congressive_ and _ingressive_.
 
