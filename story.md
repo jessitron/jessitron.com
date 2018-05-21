@@ -17,7 +17,7 @@ Software is sufficiently complex that it is analogous to biology, ecology, and s
 
 [GOTO Copenhagen 2017 keynote](https://www.youtube.com/watch?v=Lbcyyu8XB_Y): here's the sequel, everything I've learned since then. It's missing a key piece (the Line of Representation as described in the STELLA Report by DD Woods) that I picked up a few months later. Next iteration, that's in there.
 
-#Here are some posts I'm particularly happy with, on all my various blogs.
+# Here are some posts I'm particularly happy with, on all my various blogs.
 
 [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html): 10x developers are real _in a context_ not _as a person_
 
