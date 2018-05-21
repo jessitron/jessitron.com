@@ -11,6 +11,8 @@ Software is sufficiently complex that it is analogous to biology, ecology, and s
 
 # If you want to know about me, these are the works that express it:
 
+[Camerata](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960) This is my most impactful talk so far: On the origins of opera (the music, not the browser) and the future of programming. Read the post or watch the video that's linked at the top of it.
+
 [ElixirConf 2015 keynote](https://www.youtube.com/watch?v=X25xOhntr6s): it isn't about Elixir. The magic of this one is that I never gave them an abstract, and I wrote it in the three days beforehand, right after StrangeLoop. It's my first album: everything I had accumulated to say so far.
 
 [GOTO Copenhagen 2017 keynote](https://www.youtube.com/watch?v=Lbcyyu8XB_Y): here's the sequel, everything I've learned since then. It's missing a key piece (the Line of Representation as described in the STELLA Report by DD Woods) that I picked up a few months later. Next iteration, that's in there.
@@ -21,7 +23,7 @@ Software is sufficiently complex that it is analogous to biology, ecology, and s
 
 [Impermanence](https://medium.com/@jessitron/deliberate-impermanence-b0c6a8d743ee): forgetting (and death)is crucial for progress
 
-[Seamaps](http://blog.jessitron.com/2015/04/charting-team-course-with-seamap.html): how I draw my work
+[Seamaps](https://www.youtube.com/watch?v=RCrKh3yvJR4&t=1s): how I prioritize, and scale the "why" of my work. That's the video; there's also an older [post](http://blog.jessitron.com/2015/04/charting-team-course-with-seamap.html).
 
 [Systems Thinking about WIT](http://blog.jessitron.com/2015/01/systems-thinking-about-wit.html): Why aren't there more women programmers? Because there are so few women programmers.
 
