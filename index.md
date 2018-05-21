@@ -23,5 +23,8 @@ and some speaking.
 * 12-13 April, [Mob Programming](http://www.mobprogrammingconference.com/) in Boston (keynote)
 * 25-26 April, [GOTO Chicago](https://gotochgo.com/)
 * 17-18 May, [New Crafts](http://ncrafts.io/) in Paris
-* 20 June, [Kansas City Java User Group](http://empex.co/)
-
+* 20 June, [Kansas City Java User Group](https://www.meetup.com/KansasCityJUG/events/247430450/)
+* 17-20 July, [No Fluff Just Stuff](https://uberconf.com/conference/denver/2018/07/home) in Denver, CO
+* 29-30 November, [YOW! Sydney](http://yowconference.com.au/)
+* 3-4 December, YOW! Melbourne
+* 6-7 December, YOW! Brisbane
