@@ -29,7 +29,7 @@ Software is sufficiently complex that it is analogous to biology, ecology, and s
 
 [Embedded Developers](http://blog.jessitron.com/2014/08/the-power-of-embedded-developers.html): We need a lot more of these. Please can we blur the line between business and developer?
 
-[TISTIL](http://tistil.tumblr.com/post/153439406788/changing-systems): True in software, true in life. This tumblr holds short little analogies between software systems and important systems.
+[TISTIL](http://tistil.tumblr.com/post/161066300883/clutter): on housework and teamwork. This tumblr holds short little analogies between software systems and important systems.
 
 [Pipes](http://blogitron.blogspot.com/2012/06/pipes.html): From my personal blog, a useful analogy about balancing all the pressures in our life.
 
