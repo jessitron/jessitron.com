@@ -28,6 +28,6 @@ and rather a lot of speaking.
 * 23-24 April, [Philly ETE](https://2019.phillyemergingtech.com/) - keynote
 * 29 April - 1 May, [Deliver: Agile](https://www.agilealliance.org/deliveragile-2019/) - keynote
 * 16-17 May, [J on the Beach](https://jonthebeach.com/) - keynote
-* 11-13 June, [Velocity, San Jose](https://conferences.oreilly.com/velocity/vl-ca - keynote
+* 11-13 June, [Velocity, San Jose](https://conferences.oreilly.com/velocity/vl-ca) - keynote
 * 16-19 July, [Uberconf](https://uberconf.com/conference/denver/2019/07/home) in Denver - keynote
 
