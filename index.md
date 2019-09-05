@@ -11,7 +11,7 @@ and [my personal blog](https://blog.jessitron.com). You can get my small thought
 
 and some tweeting: [@jessitron](http://twitter.com/jessitron)
 
-and some podcasting, on [Greater than Code](http://greaterthancode.com) and [Arrested DevOps](https://www.arresteddevops.com/).
+and some podcasting, on [Greater than Code](http://www.greaterthancode.com) and [Arrested DevOps](https://www.arresteddevops.com/).
 
 and live-streaming of my real programming work, on [Twitch](https://twitch.tv/jessitronica)
 
