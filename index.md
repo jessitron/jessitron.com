@@ -35,5 +35,6 @@ and rather a lot of speaking.
 * 6 August, DevOpsDays Minneapolis
 * 8 August, THAT Conference, Wisconsin
 * 16-19 July, [Uberconf](https://uberconf.com/conference/denver/2019/07/home) in Denver - keynote
+* 28 October, [Trondheim Developer Conference](https://2019.trondheimdc.no/), Norway
 * 18-20 November, [RubyConf](https://rubyconf.org/), Nashville - keynote
 
