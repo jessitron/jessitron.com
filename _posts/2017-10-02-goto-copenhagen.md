@@ -23,3 +23,5 @@ you'll find out:
   * and, Why is software development so hard?
 
 Come to this talk if you want to shift how you think about your job, and possibly life.
+
+(keynote)

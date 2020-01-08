@@ -20,3 +20,5 @@ the complexity shows up in other locations.
 In a joint keynote with Dan North, I point out that the best we can do
 is push the complexity outside the code - and suggest how we can deal
 with it there.
+
+(keynote)
