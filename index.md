@@ -6,7 +6,7 @@ name: home
 
 I'm incredibly excited to be a software developer. 
 
-You can hire me for [consulting](https://blog.atomist.com/consulting).
+You can hire me for [consulting](https://blog.jessitron.com/consulting).
 
 I do some blogging, on the [Atomist blog](https://blog.atomist.com),
 and [my personal blog](https://blog.jessitron.com). You can get my small thoughts with added personal remarks if you sign up for [my newsletter](https://tinyletter.com/jessitron).
