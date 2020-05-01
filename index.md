@@ -8,7 +8,7 @@ name: home
 If you were trying to get to a blog post:
 <br>
 I'm sorry. 
-Something is terrible is wrong with my DNS.
+Something terrible is wrong with my DNS. <a href="https://blog.jessitron.com">The blog</a> might load in a different browser or on a different day. :-(
 </div>
 
 I'm incredibly excited to be a software developer. 
