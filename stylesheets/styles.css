@@ -6,6 +6,13 @@ body {
    line-height:1.25em;
 }
 
+.oh-no {
+   border: 6px double black;
+   background-color: darkgoldenrod;
+   color: black;
+   font-weight: bolder;
+}
+
 img.logo {
    width: 100px;
    height: 91px;
