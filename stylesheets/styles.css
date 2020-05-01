@@ -14,6 +14,10 @@ body {
    max-width: 50%;
 }
 
+.not-anymore {
+   text-decoration: darkred overline;
+}
+
 img.logo {
    width: 100px;
    height: 91px;
