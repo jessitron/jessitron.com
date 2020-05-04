@@ -4,14 +4,7 @@ name: home
 ---
 <img class="portrait" src="images/square-smallish.jpg" />
 
-<div class="oh-no">
-If you were trying to get to a blog post:
-<br>
-I'm sorry. 
-Something terrible is wrong with my DNS. <a href="https://blog.jessitron.com">The blog</a> might load in a different browser or on a different day. :-(
-</div>
-
-I'm incredibly excited to be a software developer. 
+I am excited to be a software developer.
 
 You can hire me for [consulting](https://blog.jessitron.com/consulting).
 

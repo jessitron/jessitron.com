@@ -6,14 +6,6 @@ body {
    line-height:1.25em;
 }
 
-.oh-no {
-   border: 6px double black;
-   background-color: darkgoldenrod;
-   color: black;
-   font-weight: bolder;
-   max-width: 50%;
-}
-
 .not-anymore {
    text-decoration: darkred line-through;
 }
